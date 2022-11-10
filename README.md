@@ -19,7 +19,9 @@ https://www.kaggle.com/datasets/prajitdatta/movielens-100k-dataset
 
 ## Результат работы
 
-
+| Model  | RMSE  | MAE    |    
+| ------ | ----  | ------ | 
+| NCF    | 0.979 | 0.773  | 
 
 ## Статус проекта
 В данный момент проект находится в процессе доработок 
